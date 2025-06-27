@@ -1,6 +1,6 @@
 <?php
 
-// CONSULTAS NO BANCO DE DADOS FICAM ESTRUTURADAS AQUI.
+// Manipulacao de resultados
 
 require_once('./models/cliente.php');
 
